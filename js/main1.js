@@ -38,7 +38,7 @@ window.addEventListener(scroll, function () {
 
 //galerija proizvoda - dinamicko ispisivanje FOR petljom
 var gallery = document.querySelector("#products");
-var swordsImg = ["Longsword", "heavysabre", "russianshashka", "katana", "Katzbalger", 
+var swordsImg = ["longsword", "heavysabre", "russianshashka", "katana", "Katzbalger", 
 				"Medivaldagger", "Gladius", "Falcata", "Celtic", ];
 var swordsName = ["Longsword", "Heavy Sabre", "Russian Shashka", "Katana", "Katzbalger", "Medival dagger", 
 					"Gladius","Falcata", "Celtic sword",];
